@@ -1,0 +1,1 @@
+SELECT * FROM fastcampus.tbl_purchase_small;
